@@ -1,0 +1,154 @@
+{
+    "data": {
+      "title": {
+        "id": "tt10872600",
+        "primary_title": "Spider-Man: No Way Home",
+        "directors": [
+          {
+            "name": {
+              "id": "nm1218281",
+              "display_name": "Jon Watts",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BNzg2NjA5ODAyMV5BMl5BanBnXkFtZTgwODAzMjkxNDE@._V1_.jpg",
+                  "width": 736,
+                  "height": 1108
+                }
+              ]
+            }
+          }
+        ],
+        "writers": [
+          {
+            "name": {
+              "id": "nm0571344",
+              "display_name": "Chris McKenna",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BNjkwMTg3NTcwMF5BMl5BanBnXkFtZTcwNDM1MTMxOA@@._V1_.jpg",
+                  "width": 515,
+                  "height": 793
+                }
+              ]
+            }
+          },
+          {
+            "name": {
+              "id": "nm1273099",
+              "display_name": "Erik Sommers",
+              "avatars": null
+            }
+          },
+          {
+            "name": {
+              "id": "nm0498278",
+              "display_name": "Stan Lee",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+                  "width": 278,
+                  "height": 400
+                }
+              ]
+            }
+          },
+          {
+            "name": {
+              "id": "nm0228492",
+              "display_name": "Steve Ditko",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BM2VhMmIwN2YtZDdjZC00ODhmLWIyZjctNGUwMTdjMThmYjRhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+                  "width": 601,
+                  "height": 599
+                }
+              ]
+            }
+          }
+        ],
+        "casts": [
+          {
+            "name": {
+              "id": "nm4043618",
+              "display_name": "Tom Holland",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+                  "width": 3648,
+                  "height": 5472
+                }
+              ]
+            },
+            "characters": [
+              "Peter Parker",
+              "Spider-Man"
+            ]
+          },
+          {
+            "name": {
+              "id": "nm3918035",
+              "display_name": "Zendaya",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_.jpg",
+                  "width": 780,
+                  "height": 1040
+                }
+              ]
+            },
+            "characters": [
+              "MJ"
+            ]
+          },
+          {
+            "name": {
+              "id": "nm1212722",
+              "display_name": "Benedict Cumberbatch",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_.jpg",
+                  "width": 1414,
+                  "height": 2048
+                }
+              ]
+            },
+            "characters": [
+              "Doctor Strange"
+            ]
+          },
+          {
+            "name": {
+              "id": "nm8188622",
+              "display_name": "Jacob Batalon",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BMTJmMDA1ODUtYWI0NS00MjA4LWFiZjgtOTk1OGQ3MDQ4Mjg4XkEyXkFqcGdeQXVyMTA1MTQ2ODk1._V1_.jpg",
+                  "width": 3725,
+                  "height": 2507
+                }
+              ]
+            },
+            "characters": [
+              "Ned Leeds"
+            ]
+          },
+          {
+            "name": {
+              "id": "nm0269463",
+              "display_name": "Jon Favreau",
+              "avatars": [
+                {
+                  "url": "https://m.media-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_.jpg",
+                  "width": 1000,
+                  "height": 1333
+                }
+              ]
+            },
+            "characters": [
+              "Happy Hogan"
+            ]
+          }
+        ]
+      }
+    }
+  }
